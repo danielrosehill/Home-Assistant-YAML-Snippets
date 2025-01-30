@@ -1,4 +1,4 @@
-# Home Assistant YAML Snippets
+# Home Assistant Dashboard YAML Snippets
 
 YAML snippets for Home Assistant dashboard elements.
 
